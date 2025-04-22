@@ -1,3 +1,5 @@
-# Empower Your Future with Innovative Software
+# Accelerating Intelligence, Beyond Limits
 
-Build models with quality data. Scale Data Engine uses your data, and Scale GenAI unlocks AI's value.
+We're product engineers at the intersection of AI and innovation—crafting intelligent, early-stage solutions alongside visionary founders and brands.
+With deep expertise in eCommerce, logistics, and automation, we design and build across platforms like Shopify and Medusa, deliver robust AI-driven systems, and provide strategic guidance from MVP to scale.
+
